@@ -27,7 +27,7 @@
     <title>Title</title>
 </head>
 <body>
-성곡
+성공
 <ul>
     <li>id=<%=member.getId()%></li>
     <li>username=<%=member.getUsername()%></li>
